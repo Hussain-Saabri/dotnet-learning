@@ -1,0 +1,97 @@
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\bin\Debug\net10.0\appsettings.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\bin\Debug\net10.0\WebAPI Endpoint.staticwebassets.runtime.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\bin\Debug\net10.0\WebAPI Endpoint.staticwebassets.endpoints.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\bin\Debug\net10.0\WebAPI Endpoint.exe
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\bin\Debug\net10.0\WebAPI Endpoint.deps.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\bin\Debug\net10.0\WebAPI Endpoint.runtimeconfig.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\bin\Debug\net10.0\WebAPI Endpoint.dll
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\bin\Debug\net10.0\WebAPI Endpoint.pdb
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\WebAPI Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\WebAPI Endpoint.AssemblyInfoInputs.cache
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\WebAPI Endpoint.AssemblyInfo.cs
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\WebAPI Endpoint.csproj.CoreCompileInputs.cache
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\WebAPI Endpoint.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\WebAPI Endpoint.RazorAssemblyInfo.cache
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\WebAPI Endpoint.RazorAssemblyInfo.cs
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\scopedcss\bundle\WebAPI Endpoint.styles.css
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\scopedcss\projectbundle\WebAPI Endpoint.bundle.scp.css
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\1y869gka3c-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\ggrxwrhskc-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\1zqfv2r0ah-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\n3hl1uwkbn-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\xzyfqs9j9s-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\24de4bnz5q-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\nhv5uhgvu8-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\0pt13wxqzy-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\agym5nmy5i-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\i773w3j6zo-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\ywvt6dtik2-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\59orcsyzsr-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\76gebt7cqs-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\z8v8yqvike-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\7ukqz5zok6-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\bdpx4b1i5m-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\t6g6mp5hlr-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\8so7l2njgg-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\fv7u0sb2rk-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\regiom829j-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\tqb4lgy791-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\p6zkg8yyp8-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\i14xnga1ip-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\cukgnsywdi-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\lz979hg7py-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\8aljh4vf23-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\czrdrqltf3-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\rr6tkl4ms1-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\8qckg3pg2v-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\2bz9h4y7zm-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\ss1zgjjw94-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\caw0uzxna9-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\iqnt9w6ye7-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\kkfj389zr1-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\nvkipfp716-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\n9wh6dn5tu-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\l2azbdxx9p-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\3qozgi52px-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\mq7su7xwwh-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\9yae6p51yv-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\qmsjgjqjaq-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\55tnotv149-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\2edv8o5f68-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\pbihpcrdw2-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\qwpx67t3ly-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\u7x37q4kht-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\b396ju955q-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\nhb7446dzh-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\oht5pvsuci-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\a9zr7pn52y-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\q72bh837zm-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\huve0mmxjl-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\tas9foy4mi-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\ec5mlw3g48-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\alnefh01it-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\xkjmct2dzu-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\8uhqh4vsta-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\0vh5minwoy-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\8grhdmtl13-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\rsa0eorfps-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\9p0d4chldf-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\ryccp6yzzp-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\p3yel47f89-{0}-rzkyr3rlun-rzkyr3rlun.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\compressed\1ud6p06crm-{0}-rzkyr3rlun-rzkyr3rlun.gz
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\WebAPI Endpoint.dll
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\refint\WebAPI Endpoint.dll
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\WebAPI Endpoint.pdb
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\WebAPI Endpoint.genruntimeconfig.cache
+C:\Users\Shabbir\source\repos\WebAPI Endpoint\WebAPI Endpoint\obj\Debug\net10.0\ref\WebAPI Endpoint.dll
