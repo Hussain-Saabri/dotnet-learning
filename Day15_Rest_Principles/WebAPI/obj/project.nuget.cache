@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "15N9H2Mzejs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shabbir\\Desktop\\All Folders\\.net learning\\Day15_Rest_Principles\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shabbir\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Shabbir\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
